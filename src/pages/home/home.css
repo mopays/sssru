@@ -1,0 +1,12 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.corlasel{
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.img{
+    width: 100%;
+}
